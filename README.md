@@ -1,2 +1,2 @@
-# sampletheme - trial 1
+# sampletheme - trial 1 ok
 test for github pages
